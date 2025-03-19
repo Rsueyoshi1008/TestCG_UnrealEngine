@@ -1,0 +1,2 @@
+2025/03/19-10:11:57.687 4f0c Creating DB C:/Users/GODof/LocalRepository/TestCG/Saved/webcache_4430\Session Storage since it was missing.
+2025/03/19-10:11:57.692 4f0c Reuse MANIFEST: IO error: C:/Users/GODof/LocalRepository/TestCG/Saved/webcache_4430\Session Storage/MANIFEST-000001: Unable to create appendable file (ChromeMethodBFE: 21::NewAppendableFile::16)
