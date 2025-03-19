@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CGProject",
+			"Path": "..\\Source\\CGProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CGProjectEditor",
+			"Path": "..\\Source\\CGProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
